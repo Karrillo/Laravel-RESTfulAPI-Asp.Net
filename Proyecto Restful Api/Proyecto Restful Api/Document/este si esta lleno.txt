@@ -1,0 +1,2 @@
+Un texto es una composicion de signos codificados en un siste
+ma de escritura (como ser un alfabeto) que forma una unidad de sentido. Su tamaño puede ser variable.

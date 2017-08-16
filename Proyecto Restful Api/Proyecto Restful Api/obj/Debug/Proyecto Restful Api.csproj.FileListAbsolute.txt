@@ -1,0 +1,61 @@
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\obj\Debug\Proyecto Restful Api.csproj.App.config
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\ApplicationInsights.config
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\csc.exe
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\vbc.exe
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Proyecto Restful Api.dll.config
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Proyecto Restful Api.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Proyecto Restful Api.pdb
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.AI.Web.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Newtonsoft.Json.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Net.Http.Extensions.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Net.Http.Primitives.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Helpers.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Mvc.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Razor.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Webpages.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Webpages.Razor.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.AI.Web.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\Newtonsoft.Json.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Net.Http.Extensions.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Net.Http.Primitives.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Razor.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Webpages.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Webpages.Razor.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Helpers.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\System.Web.Mvc.xml
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\es\System.Web.Razor.resources.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\obj\Debug\Proyecto Restful Api.dll
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\obj\Debug\Proyecto Restful Api.pdb
+C:\Users\Carrillo\Desktop\Proyecto Restful Api\Proyecto Restful Api\obj\Debug\Proyecto Restful Api.csprojResolveAssemblyReference.cache

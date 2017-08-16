@@ -1,0 +1,66 @@
+Crashlog for CEMU 1.7.4d
+Date: 13-04-2017 18:11:44
+
+-----------------------------------------
+   Stack trace
+-----------------------------------------
+Exception 0xc0000005 at 0x29f2e630055
+cemu.exe at 0x7ff78aab0000
+
+RAX=000000003e99d5e0 RBX=000000003ea2b2cc RCX=000000003e99d6a0 RDX=0000000000000000
+RSP=0000029e01540000 RBP=000000003e99d6a8 RDI=000000003ea2afc4 RSI=000000003ea2afc4
+R8 =0000000002a8cdc0 R9 =0000000002a8cdc0 R10=000000003e99d6a8 R11=0000000000000000
+R12=0000000002a8d250 R13=0000029e0da20000 R14=0000000002a8cdc0 R15=000002a2d45c0000
+
+-----------------------------------------
+   Game info
+-----------------------------------------
+Game: Breath of the Wild [EU]
+TitleId: 50000101c9500
+RPXHash: 2912eb2f
+
+-----------------------------------------
+   Active PPC instance
+-----------------------------------------
+IP 0x02a8d1f4 LR 0x02a8cdc0 Thread 0x10524620
+
+-----------------------------------------
+   PPC threads
+-----------------------------------------
+50e24e60 Ent 00e128f8 IP 0251a5f0 LR 44a45102 READY     Aff 010 Pri 80 Name NULL
+11604b78 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 010 Pri 84 Name Prepare Thread
+137057b0 Ent 01f3aef0 IP 0305cf18 LR 00cf0503 READY     Aff 100 Pri 80 Name WorkerMgr/Worker1(Any)
+13746088 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 READY     Aff 001 Pri 80 Name WorkerMgr/Worker2(Any)
+16750f30 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 010 Pri 81 Name OverlayArena Prepare
+16752c18 Ent 01f3aef0 IP 03067b58 LR f8680603 READY     Aff 001 Pri 83 Name DecompThread
+30ee6c30 Ent 01f3aef0 IP 03066818 LR 18680603 SUSPENDED Aff 001 Pri 83 Name Resource Loading
+30ef1840 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 84 Name Resource Control
+30efc5c0 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 84 Name Resource Memory
+30f074b0 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 84 Name MovableMemory
+3746f048 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 84 Name res::Compaction
+10524620 Ent 0306abc4 IP 02a65990 LR 9059a602 RUNNING   Aff 100 Pri 67 Name nw::snd::TaskThread
+3ed38520 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 82 Name aal::LowPrioWorkerThread
+3f0f5ca0 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 72 Name AsyncPatternRumbleThread
+3fbbabd0 Ent 01f3aef0 IP 0271c244 LR 44c27102 WAITING   Aff 010 Pri 86 Name ProductReportBackGround Thread
+3fde8ea8 Ent 01f3aef0 IP 0228664c LR 4c662802 WAITING   Aff 010 Pri 83 Name NFP Thread
+11a1e620 Ent 02df3dd0 IP 02dcb548 LR 48b5dc02 SUSPENDED Aff 001 Pri 80 Name Physics:HavokWorkerEntity(Core2)
+11a1fe50 Ent 02df3dd0 IP 02dcb548 LR 48b5dc02 SUSPENDED Aff 100 Pri 80 Name Physics:HavokWorkerEntity(Core0)
+11ca8c20 Ent 02df3dd0 IP 02dcb548 LR 48b5dc02 SUSPENDED Aff 001 Pri 80 Name Physics:HavokWorkerSensor(Core2)
+11ca8410 Ent 02df3dd0 IP 02dcb548 LR 48b5dc02 SUSPENDED Aff 100 Pri 80 Name Physics:HavokWorkerSensor(Core0)
+3fef8bc8 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 84 Name NavMeshSystemThread
+3ff75150 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 010 Pri 84 Name 
+3ffa0200 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 84 Name 
+3ffcb2b0 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 001 Pri 84 Name 
+400e4100 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 82 Name SaveMgrThread
+4257bb90 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 81 Name WorkerSupport[0]
+4259cea0 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 001 Pri 81 Name WorkerSupport[1]
+4259ea40 Ent 01f3aef0 IP 0206cbac LR accb0602 WAITING   Aff 001 Pri 79 Name Sleeper
+426abf18 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 001 Pri 84 Name ActorCreate
+42683300 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 84 Name ActorCreate
+4277a608 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 010 Pri 81 Name GameScen TaskMgr
+43fb65d8 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 001 Pri 84 Name uiLowPrioThreadMgr
+4c5287a8 Ent 01f3aef0 IP 01948410 LR 10849401 READY     Aff 001 Pri 85 Name RadarMgr
+43174d08 Ent 01f3aef0 IP 01f5d098 LR 98d0f501 SUSPENDED Aff 100 Pri 84 Name tera::ImageResourceMgr
+4c10fea0 Ent 01f3aef0 IP 01f5d260 LR 60d2f501 SUSPENDED Aff 100 Pri 84 Name act::ClusteredRenderer
+4b359400 Ent 01f3aef0 IP 02610d14 LR 140d6102 READY     Aff 001 Pri 84 Name PlacementMgr
+4c504b78 Ent 01f3aef0 IP 0190a4d8 LR d8a49001 WAITING   Aff 001 Pri 84 Name AutoPlacementMgr
